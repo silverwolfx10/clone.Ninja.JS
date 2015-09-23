@@ -1,0 +1,24 @@
+{
+  "name": "clone.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Cria uma cópia profunda do valor que pode conter (aninhadas) Arrays e objetos, números, strings, booleanos e datas. As funções não são copiadas",
+  "main": "clone.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bibizzy/clone.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ninja.JS": "*"
+  }
+}
